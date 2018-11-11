@@ -1,0 +1,29 @@
+#body{
+    background-color:burlywood;}
+
+#gif-button{
+    width: 100px;
+    height:75px;
+    color:white;
+    background-color:blue;
+
+}
+
+#tropical-form{
+    margin-left: 624px;
+
+}
+
+#top-button-div{
+    margin-top:25px;
+    margin-left:15px;
+}
+
+.gif-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.img{
+    padding-right: 10px;
+}
